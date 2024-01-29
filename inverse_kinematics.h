@@ -1,0 +1,10 @@
+#ifndef ROBOT_DOGGO_INVERSE_KINEMATICS_H
+#define ROBOT_DOGGO_INVERSE_KINEMATICS_H
+
+
+class inverse_kinematics {
+
+};
+
+
+#endif //ROBOT_DOGGO_INVERSE_KINEMATICS_H
